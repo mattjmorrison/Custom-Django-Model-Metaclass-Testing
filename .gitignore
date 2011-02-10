@@ -1,0 +1,11 @@
+.idea/*
+*.pyc
+*#*
+*~
+.installed.cfg
+bin/*
+eggs/*
+develop-eggs/*
+parts/*
+downloads/*
+*egg-info*
